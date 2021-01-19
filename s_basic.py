@@ -15,3 +15,12 @@ total = one + \
 
 fruits = ['apple', 'banana',
           'orange']  # [],{},()不需要换行符
+
+# 从键盘输入
+# insth = input("input sth pls\n")
+# print(insth)
+
+# print('aaaaaa', sep='1', end='3', flush=True)
+
+f = list(range(10))
+print(f)
